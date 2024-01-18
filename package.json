@@ -1,0 +1,14 @@
+{
+	"name": "@webdevmullins/prettier-config",
+	"version": "1.0.0",
+	"author": "Brandon Mullins <webdevmullins.com>",
+	"description": "My Personal Prettier Formatter Config",
+	"homepage": "https://github.com/WebDevMullins/prettier-config",
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"license": "MIT",
+	"repository": "webdevmullins/prettier-config",
+	"main": "index.json"
+}
